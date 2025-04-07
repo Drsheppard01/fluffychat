@@ -6,4 +6,5 @@ Comment=Matrix Client. Chat with your friends
 Exec=AppRun
 Icon=fluffychat
 Terminal=false
+StartupWMClass=fluffychat
 Categories=Network;Chat;InstantMessaging;X-Matrix;
